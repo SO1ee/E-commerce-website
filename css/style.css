@@ -1,0 +1,9 @@
+.navbar-brand img{
+    height: 100%;
+    width:100%;
+}
+.nav-link{
+    color:red;
+    font-weight:bolder;
+    font-size:1.2rem;
+}
